@@ -7,6 +7,12 @@ Eine Arduino-basierte Wetterstation mit dem BME280 Sensor zur Messung von:
 - Luftdruck
 - Luftfeuchtigkeit
 - Höhe
+<br>
+<br>
+  <img width="338" alt="image" src="https://github.com/user-attachments/assets/d9160f29-60e9-4552-b205-ef9ebf05cc8a">
+
+<br>
+<br>
 
 ## Hardware
 - Arduino (ATtiny3216)
