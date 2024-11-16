@@ -39,5 +39,5 @@ Eine Arduino-basierte Wetterstation mit dem BME280 Sensor zur Messung von:
     PB2  9|          |12 PC0
 SDA/PB1 10|__________|11 PB0/SCL
 
-'''
+
 </code>
