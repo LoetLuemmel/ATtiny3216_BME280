@@ -1,7 +1,6 @@
 BOSCH BME280 Sensor
 ===================
 
-# BME280 Wetterstation
 
 Eine Arduino-basierte Wetterstation mit dem BME280 Sensor zur Messung von:
 - Temperatur
@@ -10,7 +9,7 @@ Eine Arduino-basierte Wetterstation mit dem BME280 Sensor zur Messung von:
 - Höhe
 
 ## Hardware
-- Arduino (z.B. ESP32, Arduino Uno)
+- Arduino (ATtiny3216)
 - BME280 Sensor
 
 ## Installation
