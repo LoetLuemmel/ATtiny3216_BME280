@@ -24,7 +24,7 @@ Eine Arduino-basierte Wetterstation mit dem BME280 Sensor zur Messung von:
 - BME280 GND -> GND
 
 <code>
-'''
+´´´
            ATtiny3216
            ____  ____
     VDD  1|    \/    |20 GND
